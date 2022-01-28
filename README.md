@@ -2,4 +2,6 @@
 0033_Search in Rotated Sorted Array  
 0198_House Robber  
 0213_House Robber II  
-0337. House Robber III  
+0337_House Robber III  
+0279_Perfect Squares  
+0004_Median of Two Sorted Arrays  
