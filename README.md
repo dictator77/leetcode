@@ -6,3 +6,4 @@
 41. First Missing Positive  
 668. Kth Smallest Number in Multiplication Table  
 1172. Dinner Plate Stacks  
+567. Permutation in String  
