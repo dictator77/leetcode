@@ -7,3 +7,6 @@
 668. Kth Smallest Number in Multiplication Table  
 1172. Dinner Plate Stacks  
 567. Permutation in String  
+10. Regular Expression Matching  
+17. Letter Combinations of a Phone Number  
+2179. Count Good Triplets in an Array  
