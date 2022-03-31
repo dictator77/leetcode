@@ -10,3 +10,6 @@
 10. Regular Expression Matching  
 17. Letter Combinations of a Phone Number  
 2179. Count Good Triplets in an Array  
+
+4. 寻找两个正序数组的中位数  
+10. 正则表达式匹配  
